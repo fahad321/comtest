@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Homebuying64</title>
+    <g id="Homebuying64" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Bounding-box" x="0" y="0" width="64" height="64"></rect>
+        <g id="Pictogram" transform="translate(13.500000, 9.000000)" stroke="#1E1E1E">
+            <path d="M0,16.8860722 L0,41.5 C6.76353751e-17,42.0522847 0.44771525,42.5 1,42.5 L36,42.5 C36.5522847,42.5 37,42.0522847 37,41.5 L37,16.8860722 C37,16.5949112 36.8731013,16.3182089 36.6524504,16.1282408 L19.1524504,1.06172313 C18.7774069,0.738831755 18.2225931,0.738831755 17.8475496,1.06172313 L0.347549646,16.1282408 C0.126898668,16.3182089 8.52521479e-16,16.5949112 0,16.8860722 Z" id="Path-3" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="#FAEC20" x="23" y="20.5" width="9" height="9" rx="1"></rect>
+        </g>
+    </g>
+</svg>
