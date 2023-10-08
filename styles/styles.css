@@ -129,10 +129,10 @@ main pre {
   white-space: pre;
 }
 
-a:any-link {
+/*a:any-link {
   color: var(--link-color);
   text-decoration: none;
-}
+}*/
 
 a:hover {
   text-decoration: underline;
