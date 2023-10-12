@@ -158,10 +158,10 @@ main pre {
   white-space: pre;
 }
 
-/*a:any-link {
+/* a:any-link {
   color: var(--link-color);
   text-decoration: none;
-}*/
+} */
 
 a:hover {
   text-decoration: underline;
@@ -274,8 +274,8 @@ main img {
 .icon.icon-search::before{
   content: "";
   position: absolute;
-  top: 0px;
-  left: 0px;
+  top: 0;
+  left: 0;
   border-left: 1px solid #e9e9e9;
   padding: 36px 30px;
   transform: translate(-50%, -30%);
@@ -284,6 +284,7 @@ main img {
 .nav-tools p:nth-child(2) {
   position: relative;
 }
+
 .nav-tools p:nth-child(2)::before {
   content: "";
   position: absolute;
