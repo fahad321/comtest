@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>repaymentsCalc64@1x</title>
+    <g id="repaymentsCalc64" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path" fill-rule="nonzero" points="0 0 64 0 64 64 0 64"></polygon>
+        <g id="pictograms_repaymentsCalc" transform="translate(13.000000, 15.000000)" stroke="#1E1E1E">
+            <g id="Financial-planning" transform="translate(19.500000, 17.000000) scale(-1, 1) translate(-19.500000, -17.000000) ">
+                <g id="Group-11" transform="translate(2.089286, 0.000000)">
+                    <line x1="0" y1="22.6054303" x2="31.1244959" y2="0" id="Stroke-1"></line>
+                    <polyline id="Page-1-Copy-2" transform="translate(2.785714, 20.188400) rotate(180.000000) translate(-2.785714, -20.188400) " points="0 17.0807905 5.57142857 17.7900093 4.45969044 23.2960103"></polyline>
+                </g>
+                <g id="Group" transform="translate(0.000000, 9.484411)">
+                    <polyline id="Path-3127" fill="#FFFFFF" fill-rule="nonzero" points="3.48214286 24.1702993 3.48214286 19.3362395 8.35714286 19.3362395 8.35714286 24.1336535"></polyline>
+                    <polyline id="Path-3128" fill="#FFFFFF" fill-rule="nonzero" points="12.5357143 24.1702993 12.5357143 13.1210196 17.4107143 13.1210196 17.4107143 24.0675218"></polyline>
+                    <polyline id="Path-3129" fill="#FFFFFF" fill-rule="nonzero" points="21.5892857 24.1702993 21.5892857 6.21521983 26.4642857 6.21521983 26.4642857 24.0976628"></polyline>
+                    <polyline id="Path-3130" fill="#FAEC20" fill-rule="nonzero" points="30.6428571 24.1702993 30.6428571 -1.04981999e-23 35.5178571 -1.04981999e-23 35.5178571 23.9429448"></polyline>
+                    <line x1="0" y1="24.1702993" x2="39" y2="24.1702993" id="Path-3122"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

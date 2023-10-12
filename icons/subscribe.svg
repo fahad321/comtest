@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Online64</title>
+    <g id="Online64" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Online">
+            <rect id="Bounding-box" x="0" y="0" width="64" height="64"></rect>
+            <g id="Pictogram" transform="translate(12.500000, 9.500000)" stroke="#1E1E1E">
+                <path d="M8,20.4394402 L32,20.4394402 L32,15.5148604 C31.7893544,10.5049535 29.7325152,8 25.8294823,8 C21.9264495,8 17.9352566,8 13.8559036,8 C9.95196788,8.18414982 8,10.6891033 8,15.5148604 C8,20.3406175 8,21.9821441 8,20.4394402 Z" id="Path-8" fill="#FFFFFF"></path>
+                <path d="M8,20.4394402 L20,20.4394402 L20,8 L13.8559036,8 C9.95196788,8.18414982 8,10.6891033 8,15.5148604 C8,20.3406175 8,21.9821441 8,20.4394402 Z" id="Path-9" fill="#FAEC20"></path>
+                <line x1="11" y1="0" x2="11" y2="4" id="Path-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="2" y1="4" x2="5.2" y2="6.4" id="Path-2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <line x1="2" y1="10" x2="2" y2="14" id="Path-2" stroke-linecap="round" stroke-linejoin="round" transform="translate(2.000000, 12.000000) rotate(-90.000000) translate(-2.000000, -12.000000) "></line>
+                <path d="M8,30.0057216 L8,20 L32,20 L32,30.0057216 C31.6873384,38.0019072 27.6873384,42 20,42 C12.3126616,42 8.31266164,38.0019072 8,30.0057216 Z" id="Path-10" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
